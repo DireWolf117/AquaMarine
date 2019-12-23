@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{93C9DC3B-C9B7-4FF2-887D-8B1FB4EB15B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AquaMarine", "AquaMarine\AquaMarine.vcxproj", "{DBAA64A5-0FC2-4360-9A87-F51A4E4EFC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAA64A5-0FC2-4360-9A87-F51A4E4EFC0A}.Debug|x64.ActiveCfg = Debug|x64
+		{DBAA64A5-0FC2-4360-9A87-F51A4E4EFC0A}.Debug|x64.Build.0 = Debug|x64
+		{DBAA64A5-0FC2-4360-9A87-F51A4E4EFC0A}.Release|x64.ActiveCfg = Release|x64
+		{DBAA64A5-0FC2-4360-9A87-F51A4E4EFC0A}.Release|x64.Build.0 = Release|x64
+		{93C9DC3B-C9B7-4FF2-887D-8B1FB4EB15B5}.Debug|x64.ActiveCfg = Debug|x64
+		{93C9DC3B-C9B7-4FF2-887D-8B1FB4EB15B5}.Debug|x64.Build.0 = Debug|x64
+		{93C9DC3B-C9B7-4FF2-887D-8B1FB4EB15B5}.Release|x64.ActiveCfg = Release|x64
+		{93C9DC3B-C9B7-4FF2-887D-8B1FB4EB15B5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF66C417-B977-43E8-8E18-B79B8F257AE7}
+	EndGlobalSection
+EndGlobal
